@@ -321,6 +321,7 @@ _Infrastructure, development tools, and platform services for AI._
 - **[jina-ai/serve](https://github.com/jina-ai/serve)** ⭐ 21,653 - ☁️ Build multimodal AI applications with cloud-native stack
 - **[andrewyng/aisuite](https://github.com/andrewyng/aisuite)** ⭐ 12,245 - Simple, unified interface to multiple Generative AI providers
 - **[Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)** ⭐ 9,981 - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+- **[flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor)** ⭐ 5 - 🤖 Real-time monitoring dashboard for OpenClaw AI agents — tracks token usage, session health, and Gateway status. Self-hosted, MIT license.
 
 ## Education & Translation
 
